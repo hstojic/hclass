@@ -1,0 +1,17 @@
+Package: hclass
+Title: Classification basics.
+Version: 0.0.1
+Author: Hrvoje Stojic <hrvoje.stojic@gmail.com>
+Maintainer: Hrvoje Stojic <hrvoje.stojic@gmail.com>
+Description: Library with essential machine learning classifiers.
+License: see LICENCE
+Date: 2016-02-04
+Type: Package
+Depends:
+    R (>= 2.15.0),
+    assertthat
+URL: http://github.com/hstojic/hclass/
+BugReports: https://github.com/hstojic/hclass/issues
+BuildKeepEmpty: TRUE
+LazyData: true
+RoxygenNote: 5.0.1
